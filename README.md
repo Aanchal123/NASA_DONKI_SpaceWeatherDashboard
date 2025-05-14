@@ -16,5 +16,4 @@ This interactive dashboard visualizes real-time space weather events using data 
 ## 🔗 Live App
 Check it out here: [Live Dashboard on Hugging Face](https://huggingface.co/spaces/AanchalMalhotra/SpaceWeather_Analysis)
 
-## 🧑‍💻 Credits
-Originally explored in a group setting — this repo contains Aanchal’s personal dashboard implementation.
+
