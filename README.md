@@ -1,13 +1,20 @@
----
-title: Space_Weather_Analysis
-emoji: 🌌
-colorFrom: blue
-colorTo: gray
-sdk: streamlit
-sdk_version: 1.36.0
-app_file: app.py
-pinned: false
-license: mit
----
+# NASA DONKI Space Weather Dashboard 🌌
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+This interactive dashboard visualizes real-time space weather events using data from NASA's DONKI (Space Weather Database Of Notifications, Knowledge, Information) API.
+
+## 🚀 Features
+- Fetches live solar flare and CME data
+- Interactive visualizations (e.g., plots, filters, maps)
+- Built with Streamlit and deployed on Hugging Face Spaces
+
+## 📦 Technologies
+- Python
+- Streamlit
+- NASA DONKI API
+- Hugging Face Spaces
+
+## 🔗 Live App
+Check it out here: [Live Dashboard on Hugging Face](https://huggingface.co/spaces/AnkitSawant/SpaceWeather_Analysis)
+
+## 🧑‍💻 Credits
+Originally explored in a group setting — this repo contains Aanchal’s personal dashboard implementation.
